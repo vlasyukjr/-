@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FC Skoruk</title>
+</head>
+<body>
+  <h1>Welcome to FC Skoruk</h1>
+
+  <h2>About Our Team</h2>
+  <p>FC Skoruk is a Ukrainian football club based in Tomakivka. Our team is known for strong spirit, discipline, and teamwork. We play with heart and passion!</p>
+
+  <h2>Our Players</h2>
+  <ul>
+    <li>Артем – Goalkeeper</li>
+    <li>Трофім Зенін – Goalkeeper</li>
+    <li>Давид Максимов – Defender</li>
+    <li>Назарій Кондиба – Defender</li>
+    <li>Андрій Кравчук – Defender</li>
+    <li>Іван Товсий – Defender</li>
+    <li>Стас Михайлов – Defender</li>
+    <li>Егор Бобіков – Midfielder</li>
+    <li>Власюк Богдан – Midfielder</li>
+    <li>Сергій Ткаченко – Midfielder</li>
+    <li>Назарій Косичка – Midfielder</li>
+    <li>Марк Как-то-тамович – Midfielder</li>
+    <li>Георгій Кислий – Midfielder</li>
+    <li>Мірослав Попік – Forward</li>
+    <li>Віталій Галай – Forward</li>
+    <li>Микита Грижук – Forward</li>
+  </ul>
+
+  <h2>Last Matches Matches</h2>
+  <ol>
+    <li>Скоро</li>
+    <li>Скоро</li>
+    <li>Скоро</li>
+  </ol>
+
+  <h2>Contact</h2>
+  <p></p>
+  <p>Phone: +380099016247</p>
+
+  <footer>
+    <p>&copy; 2025 FC Skoruk. All rights reserved.</p>
+  </footer>
+</body>
+</html>
